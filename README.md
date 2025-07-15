@@ -13,3 +13,8 @@ minimal-linux/
 ├── u-boot/                 # U-Boot bootloader
 ├── rootfs.img              # minimal root filesystem
 ```
+- 👉 First_step.md: set up environment
+
+- 👉 Second_step.md: implement mounting module
+
+- 👉 Third_step.md: add debugfs
