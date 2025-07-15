@@ -13,8 +13,8 @@ minimal-linux/
 ├── u-boot/                 # U-Boot bootloader
 ├── rootfs.img              # minimal root filesystem
 ```
-- 👉 First_step.md: set up environment
+-  First_step.md: set up environment 👉 [docs/Linux-qemu-busybox/First_step.md](docs/Linux-qemu-busybox/First_step.md)
 
-- 👉 Second_step.md: implement mounting module
+- Second_step.md: implement mounting module 👉 [docs/Linux-qemu-busybox/Second_step.md](docs/Linux-qemu-busybox/Second_step.md)
 
 - 👉 Third_step.md: add debugfs
