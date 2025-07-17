@@ -14,4 +14,4 @@ This project builds a minimal Linux environment using:
 
 - Second_step.md: implement mounting module 👉 [click](/Second_step.md)
 
-- Third_step.md: add debugfs 👉 
+- Third_step.md: add debugfs 👉 [click](/Third_step.md)
