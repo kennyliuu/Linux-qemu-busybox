@@ -1,5 +1,5 @@
 # 🐧 Linux-qemu-busybox
-In order to realize and learn the Linux kernel, it's a little side project about building and simulating a minimal Linux(for ARM64 with BusyBox and QEMU), include kernel module and debugfs.
+In order to realize and learn the Linux kernel, it's a little learning record about building and simulating a minimal Linux(for ARM64 with BusyBox and QEMU), include kernel module and debugfs.
 
 ## 📁 Abstract
 
