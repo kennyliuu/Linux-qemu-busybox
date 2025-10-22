@@ -41,7 +41,7 @@ make -C ../linux ARCH=arm64 CROSS_COMPILE=aarch64-linux-gnu- M=$(pwd) modules
 ```
 ---
 
-### ✅ [3/5] Copy Modele to rootfs.img
+### ✅ [3/5] Copy Module to rootfs.img
 
 Mount the root filesystem image and install the compiled module in the appropriate kernel modules directory.
 
